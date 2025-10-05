@@ -1,5 +1,5 @@
 # vxxx-cache
-## Redis Cache Service
+## Cache Service
 A robust, production-ready Redis caching service with automatic fallback to in-memory
 cache. Designed for high-performance applications requiring reliable caching with graceful
 degradation.
