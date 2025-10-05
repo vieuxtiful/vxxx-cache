@@ -20,8 +20,8 @@ For development dependencies:
 Bash
 pip install redis-cache-service[dev]
 Quick Start
-ppyytthhoonn 33..77+
-LLiicceennssee MIITT
+python 3.7+
+License MIT
 Python
 from redis_cache_service import RedisCacheService
 # Initialize the cache service
